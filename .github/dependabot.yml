@@ -1,5 +1,6 @@
 version: 2
-update_configs:
-  - package_manager: "composer"
+updates:
+  - package-ecosystem: "composer"
     directory: "/"
-    update_schedule: "daily"
+    schedule:
+      interval: "daily"
