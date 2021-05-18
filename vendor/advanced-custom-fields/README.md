@@ -1,0 +1,1 @@
+After downloading a **licensed** copy of the Advanced Custom Fields plugin from https://wordpress.org/plugins/advanced-custom-fields/, unzip the contents into this directory and commit them to your **private** repository.

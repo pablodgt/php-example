@@ -1,0 +1,7 @@
+{
+  "name": "advanced-custom-fields/advanced-custom-fields-pro",
+  "version": "5.9.5",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "description": "Vendored copy of commercial distribution of ACF Pro"
+}
