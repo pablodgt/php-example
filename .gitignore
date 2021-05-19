@@ -1,7 +1,0 @@
-/vendor/*
-
-# Include everything within /vendor/advanced-custom-fields
-!/vendor/advanced-custom-fields
-!/vendor/advanced-custom-fields/*
-
-/wp-content
